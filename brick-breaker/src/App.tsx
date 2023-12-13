@@ -4,13 +4,14 @@ import './App.css'
 const App = () => {
   return (
     <>
-    {/* <div id="root">Hello World!</div> */}
-    <h1>Brick Breaker Redux</h1>
+    <h3>Brick Breaker Redux</h3>
+    {/* <div id="root">Hello World!</div>
     <canvas id="canvas" width="500" height="300"></canvas>
+    <h3>Brick Breaker Redux</h3>
     <p>Mouse moves platform &bull; Press any key to pause</p>
-      {/* </p></p><button onclick="reload()">Play again</button>  */}
-      {/* <button id="reloadButton" onClick="reload()">Play again</button> */}
-      <div id="score"></div>
+      <button onClick={() => console.log("Clicked")}>Play again</button> 
+      <button id="reloadButton" onClick="reload()">Play again</button>
+      <div id="score"></div> */}
     </>
         )
       }

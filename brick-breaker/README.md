@@ -1,3 +1,12 @@
+# Welcome to Brick Breaker Redeux
+
+As assgined, I'm creating Brick Breaker using React. I'm using the Brick Breaker I forked on codepen.io here:
+
+https://codepen.io/dhughneil/pen/oNJrrzX?editors=1000
+
+Below the line is the original README.md that was generated when creating the React project.
+-------------------------------------------
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
